@@ -1,0 +1,14 @@
+#! /bin/bash
+export CONSUMER_KEY=""
+export CONSUMER_SECRET=""
+export ACCESS_TOKEN=""
+export ACCESS_TOKEN_SECRET=""
+export TWITTER_USER_ID=""
+export TWITTER_API_COUNT="" 
+export SERVER_IP_ADDRESS="" # NextCloudを稼働させているサーバのIPアドレス
+export NEXTCLOUD_USERNAME=""
+export DIRNAME="" # NextCloud上の保存先ディレクトリのパス
+export NEXTCLOUD_PW=""
+export EXECUTION_TIME="" # HH:MM
+
+echo -e "0" >> latest_fav_tweet_id.txt
