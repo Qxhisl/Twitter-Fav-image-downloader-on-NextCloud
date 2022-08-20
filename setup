@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 export CONSUMER_KEY=""
 export CONSUMER_SECRET=""
 export ACCESS_TOKEN=""
